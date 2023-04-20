@@ -1,6 +1,6 @@
 # Web3 Development Adventures: My Personal Journey of Learning
 
-Welcome to my "ic-projects" repository! This is where I share my personal journey of exploration and development in the fascinating realm of Web3, blockchain, and decentralized technologies. Outside of my professional and academic commitments, I've been dedicating my time to an array of projects that help sharpen my skills and deepen my comprehension of this rapidly evolving domain.
+Welcome to my "ic-projects" repository! This is where I share my personal journey of exploration and development in Web3, blockchain, and decentralized technologies. 
 
 The projects I've been engaged in span a diverse set of subjects, including:
 
